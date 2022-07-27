@@ -18,7 +18,8 @@ thymeleaf-extras-java8time, spring-boot-starter-data-jpa
 
 >> Banco de dados h2database para testes apenas.
 
-- App será feito em TotalCross Java 8
+- App será feito em Java 1.8 utilizando Maven e Selenium para os Testes
+
 >> Banco de Dados local ( ainda estou decidindo )
 
 
